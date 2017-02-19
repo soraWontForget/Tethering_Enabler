@@ -1,5 +1,0 @@
-10.0.0
-    - magisk v10-compatible release.
-
-1.0.0
-    - Initial release.
