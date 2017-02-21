@@ -27,17 +27,29 @@
 
 # This will be the folder name under /magisk
 # This should also be the same as the id in your module.prop to prevent confusion
+<<<<<<< HEAD
 MODID=Tethering_Enabler
 
 # Set to true if you need to enable Magic Mount
 # Most mods would like it to be enabled
 AUTOMOUNT=false
+=======
+MODID=template
+
+# Set to true if you need to enable Magic Mount
+# Most mods would like it to be enabled
+AUTOMOUNT=true
+>>>>>>> 6fd89d800eae3d6a14ec38c828d92d6f85a5bd2c
 
 # Set to true if you need to load system.prop
 PROPFILE=false
 
 # Set to true if you need post-fs-data script
+<<<<<<< HEAD
 POSTFSDATA=true
+=======
+POSTFSDATA=false
+>>>>>>> 6fd89d800eae3d6a14ec38c828d92d6f85a5bd2c
 
 # Set to true if you need late_start service script
 LATESTARTSERVICE=false
@@ -49,9 +61,15 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
+<<<<<<< HEAD
   ui_print "******************************"
   ui_print "       Tethering Enabler      "
   ui_print "******************************"
+=======
+  ui_print "*******************************"
+  ui_print "     Magisk Module Template    "
+  ui_print "*******************************"
+>>>>>>> 6fd89d800eae3d6a14ec38c828d92d6f85a5bd2c
 }
 
 ##########################################################################################
