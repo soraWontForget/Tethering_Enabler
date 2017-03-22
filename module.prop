@@ -4,4 +4,4 @@ version=11.0.0
 versionCode=5
 author=stangri
 description=This module enables tethering on phones where it's disabled by the manufacturer/provider.
-template=2
+template=3
