@@ -3,6 +3,9 @@ This magisk module enables tethering on phones where it's disabled by the manufa
 
 ## Change Log
 11.0.0
+    - magisk v14-compatible release, use of template v1400.
+
+11.0.0
     - magisk v11-compatible release, use of template v2.
 
 10.0.0

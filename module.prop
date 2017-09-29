@@ -1,7 +1,7 @@
 id=TetheringEnabler
 name=Tethering Enabler
-version=11.0.0
-versionCode=5
+version=14.0.0
+versionCode=6
 author=stangri
 description=This module enables tethering on phones where it's disabled by the manufacturer/provider.
-template=3
+template=1400
